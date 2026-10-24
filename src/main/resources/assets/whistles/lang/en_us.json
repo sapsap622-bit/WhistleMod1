@@ -1,0 +1,7 @@
+{
+  "itemGroup.whistles": "Whistles",
+  "item.whistles.frequency_whistle": "The Frequency Whistle",
+  "tooltip.whistles.frequency_whistle.1": "Blow for 5 seconds. It can't be cancelled.",
+  "tooltip.whistles.frequency_whistle.2": "Every second a shockwave adds 3s of Stasis within 8 blocks.",
+  "effect.whistles.stasis": "Stasis"
+}

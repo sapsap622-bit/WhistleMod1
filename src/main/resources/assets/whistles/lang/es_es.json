@@ -1,0 +1,7 @@
+{
+  "itemGroup.whistles": "Silbatos",
+  "item.whistles.frequency_whistle": "The Frequency Whistle",
+  "tooltip.whistles.frequency_whistle.1": "Sopla durante 5 segundos. No se puede cancelar.",
+  "tooltip.whistles.frequency_whistle.2": "Cada segundo una onda expansiva añade 3s de Stasis en 8 bloques.",
+  "effect.whistles.stasis": "Stasis"
+}
